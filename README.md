@@ -6,7 +6,7 @@ This is a blank Unity template for you to build an AR App with Vuforia.  Once bu
 
 If you're looking for the Android template, please click [here](https://github.com/Oh-Hello-Alex/-Template-Unity2020StreamingARwithVuforia-Android).<br /><br />
 
-Start by opening up: Assets > Scene > Main<br /> <br />
+**Start by opening up: Assets > Scene > Main**<br /> <br />
 
 
 ## Versions
