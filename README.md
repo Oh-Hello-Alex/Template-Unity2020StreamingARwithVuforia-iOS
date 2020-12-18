@@ -1,6 +1,6 @@
 # Template for an AR streaming APP built in Unity 2020 with Vuforia - iOS
 
-This is a blank Unity template that for you to build an AR App.  Once built, when an image is triggered, it will play a streaming video that is hosted externally. The video will pause when the trigger image is no longer tracked.
+This is a blank Unity template for you to build an AR App with Vuforia.  Once built, when an image is triggered, it will play a streaming video that is hosted externally. The video will pause when the trigger image is no longer tracked.
 
 
 ## Versions
